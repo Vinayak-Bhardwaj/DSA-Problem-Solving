@@ -42,8 +42,8 @@ int main() {
     int key;
     cin >> key;
     
-    cout << lastOccurence(arr, n, 0, key);
-    cout << lastOccurence2(arr, n, 0, key);
+    cout << lastOccurence(arr, n, 0, key) << endl;
+    cout << lastOccurence2(arr, n, 0, key) << endl;
 
     return 0;
 }
