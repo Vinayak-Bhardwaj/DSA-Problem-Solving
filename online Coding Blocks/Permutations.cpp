@@ -14,6 +14,7 @@ void permute(string str, int i) {
     // run a loop from j = i to j != null and swap every ith and jth element and rest give it to recursion but after recursion result don't forget to backtrack
     for(int j = i; str[j] != '\0'; j++) {
         swap(str[i], str[j]);
+        // We gave the rest work to recursion ki humne bhai i = 0 ke liye swap kar liye aage tum karo
         permute(str, i + 1);
         swap(str[i], str[j]);
     }
