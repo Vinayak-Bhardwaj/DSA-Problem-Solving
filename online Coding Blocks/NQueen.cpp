@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+vector<pair<int, int>> v;
+
 bool canPlace(int board[][10], int i, int j, int n) {
     
     // 1. checking the same corresponding row and column
