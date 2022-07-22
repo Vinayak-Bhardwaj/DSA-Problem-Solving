@@ -1,3 +1,19 @@
+// 1. Dekh ap itna clear hai ki tujhe meri need nahi, so mere rukne ka koi sense banta nahi so ye cheez ko yahi rok de wo zyada better hai
+// 2. me jab isme aaya tha to merko manzoor tha ki jo bhi hoga isme sab accepted hai
+// 3. dekh mujhe to pata nahi kaun sach bol raha hai aur kaun jhoot. fact is ki agar wo promises aur wo khushi chahe mere bts ke special msg par yaa fir saath rehne ke msg par, unme se kuch 1% tu mean karti to things would
+// have been different.
+// 4. and mujhe isse sahi karna bhi nahi hai. dekh iss sabse mujhe ek reality pata chal gayi hai ki me abhi aur shayad kaafi time tak iss cheeze
+// ke liye ready nahi hu. maybe it's not in the cards for guys like us. Priorities saaf dikh rahi hai mujhe ab. sach batau mene kabhi expect nahi kiya tha ki tera msg aayega
+//but accha hua aaya and we talked about it. atleast ek baat seekhi ki har baar kisi cheez yaa bond ka load pura apne upar lekr humesha apni galti batana is not right. Secondly I deserve better
+
+//5. apoorva bas ek cheez kariyo aage se, ki jo feel karo ussi ko kehna seekho.
+
+// I had a great time with you, and i will aways cherish those special moments. whether it be late night chit chats, stone paper scissor or rohit btc or me getting into every cafe's website to look which among them has the best ambience or those weird snaps, miss pretty fingers, or gift decide karna yaa fir mother aur riveria movie dekhkar dare dena jo wese aajtak tak to hua nahi. Ye or khatam ho jaayenge but ye memories nahi and these things make me wonder ki agar face to face mile hhote to kya hota . Thank you for everything. although it didn't turned out the way i wanted but koi naah ki fark painda hai
+
+// one last time
+// Adios amiga
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
